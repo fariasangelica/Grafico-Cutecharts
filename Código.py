@@ -42,6 +42,7 @@ chart.add_series('Last Week', list(df_coffee['Last week']))
 
 chart.render_notebook()
 
+![image](https://user-images.githubusercontent.com/98922466/167052053-e590b0bb-b62c-4f29-b18d-dad0fe626194.png)
 
 # In[ ]:
 
